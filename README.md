@@ -1,16 +1,39 @@
-## Hi there 👋
+## 👋 Hi there!
 
-<!--
-**DEEPAKbaisla/DeepakBaisla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Nice meeting you, I'm **Deepak Baisla** 😄  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me
+
+- 🚀 MERN Stack Developer | Next.js Learner | Open to Opportunities
+- 💡 Ask me about **Web Development & JavaScript**
+- 🔐 Learning **NextAuth & Full-Stack Projects**
+- 🌱 Open to **Frontend / MERN Developer roles**
+
+---
+
+### 📫 How to Reach Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/deepakbaisla7988  
+- 📧 Email: deepakbanisla@gmail.com
+
+---
+
+###### 🛠 Tech Stack
+- JavaScript
+- React
+- Next.js
+- Node.js
+- MongoDB
+- Tailwind CSS
+
+
+---📌 Open to:
+- Internship
+- Frontend Developer Role
+- MERN Stack Developer Role
+
+
+### ⚡ Fun Fact
+If I'm not coding, I'm probably exploring tech or learning something new 🚀
